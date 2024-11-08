@@ -16,7 +16,9 @@ CTRL = Crouch
 #############################
 
 Funtionality So Far
+
   -Multiplayer Walk, Jump, Crouch
+  
   -Sound FX for footsteps(Server-Client working)
 
 
