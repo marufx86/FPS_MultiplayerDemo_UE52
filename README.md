@@ -31,3 +31,4 @@ Asset Used in this game
 
 -Animations from Mixamo
 
+-Footstep sounds from freesound.org
