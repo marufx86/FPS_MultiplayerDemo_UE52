@@ -16,7 +16,10 @@ CTRL = Crouch
 #############################
 
 Funtionality So Far
+
   -Multiplayer Walk, Jump, Crouch
+  
+  -Sound FX for footsteps(Server-Client working)
 
 
 
@@ -30,3 +33,4 @@ Asset Used in this game
 
 -Animations from Mixamo
 
+-Footstep sounds from freesound.org
