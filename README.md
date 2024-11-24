@@ -33,4 +33,8 @@ Asset Used in this game
 
 -Animations from Mixamo
 
+-Custom animations created in Maya
+
+-Custom UI created in Figma
+
 -Footstep sounds from freesound.org
