@@ -40,3 +40,5 @@ Asset Used in this game
 -Custom UI created in Figma
 
 -Footstep sounds from freesound.org
+
+-UI sounds created from elevenlabs.io
