@@ -42,3 +42,6 @@ Asset Used in this game
 -Footstep sounds from freesound.org
 
 -UI sounds created from elevenlabs.io
+
+![image](https://github.com/user-attachments/assets/e8993bd9-477e-4c46-b2b0-17b34ab9e1e2)
+
