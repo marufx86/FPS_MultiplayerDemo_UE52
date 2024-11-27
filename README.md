@@ -21,6 +21,8 @@ Funtionality So Far
   
   -Sound FX for footsteps(Server-Client working)
 
+  -Team Selection Widget(Server-Client working)
+
 
 
 #############################
