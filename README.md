@@ -1,47 +1,29 @@
-# FPS_MultiplayerDemo_UE52
-Welcome to the FPS Multiplayer Demo repository! This project is a First Person Shooter (FPS) multiplayer demo built in Unreal Engine 5.2 (UE5.2).
+# FPS Multiplayer Demo (UE5.2)
 
-#############################
+This is a First Person Shooter (FPS) multiplayer demo project built using Unreal Engine 5.2. It demonstrates basic multiplayer functionality.
 
-WASD = Jump
+## Controls
 
-Shift+WASD = Walk
+*   **WASD:** Movement
+*   **Shift + WASD:** Walk
+*   **Spacebar:** Jump
+*   **CTRL:** Crouch
 
-Spacebar = Jump
+## Current Functionality
 
-CTRL = Crouch
+*   Multiplayer movement (Walk, Jump, Crouch)
+*   Footstep sound effects (Server-Client synchronized)
+*   Team Selection Widget (Server-Client synchronized)
 
+## Assets Used
 
+*   **Environment:** DevTon Abandoned Prison (UE Marketplace)
+*   **Characters:** Fantasy Characters (Pack) (UE Marketplace)
+*   **Animations:** Mixamo, Custom (Maya)
+*   **UI Design:** Figma
+*   **Footstep Sounds:** freesound.org
+*   **UI Sounds:** elevenlabs.io
 
-#############################
+## Image
 
-Funtionality So Far
-
-  -Multiplayer Walk, Jump, Crouch
-  
-  -Sound FX for footsteps(Server-Client working)
-
-  -Team Selection Widget(Server-Client working)
-
-
-
-#############################
-
-Asset Used in this game
-
--DevTon Abandoned Prison(UE marketplace)
-
--Fantasy Characters (Pack)(UE marketplace)
-
--Animations from Mixamo
-
--Custom animations created in Maya
-
--Custom UI created in Figma
-
--Footstep sounds from freesound.org
-
--UI sounds created from elevenlabs.io
-
-![image](https://github.com/user-attachments/assets/e8993bd9-477e-4c46-b2b0-17b34ab9e1e2)
-
+![Gameplay Screenshot](https://github.com/user-attachments/assets/e8993bd9-477e-4c46-b2b0-17b34ab9e1e2)
